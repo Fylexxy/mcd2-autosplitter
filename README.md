@@ -16,4 +16,4 @@ It only reads the game's memory, no mods or anything needed.
 
 Still a test version. Xbox app should work but isn't tested yet.
 
-If something breaks please dm "Fylexxy" on discord.
+If something breaks please dm "Fylexxy" on discord or make an [issue](https://github.com/Fylexxy/mcd2-autosplitter/issues) on github.

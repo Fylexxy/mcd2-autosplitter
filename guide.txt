@@ -14,4 +14,4 @@ what it does:
 - splits every time you finish a relevant main quest
 - reset and the last split you do yourself
 
-If something breaks please dm "Fylexxy" on discord.
+If something breaks please dm "Fylexxy" on discord or make an issue on github: https://github.com/Fylexxy/mcd2-autosplitter/issues

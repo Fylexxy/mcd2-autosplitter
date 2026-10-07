@@ -1,6 +1,6 @@
 how to set up the mcd2 autosplitter (steam or xbox app, same steps)
 
-1. unzip MCD2-Autosplitter-0.2.zip
+1. unzip MCD2-Autosplitter.zip
 2. download asl-help here: https://github.com/just-ero/asl-help/raw/main/lib/asl-help
 3. put asl-help and MinecraftDungeonsII.asl in your LiveSplit\Components folder
 4. open livesplit, right click > Open Layout > From File > MCD2.lsl

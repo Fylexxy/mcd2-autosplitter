@@ -1,0 +1,17 @@
+how to set up the mcd2 autosplitter (steam or xbox app, same steps)
+
+1. unzip MCD2-Autosplitter-0.2.zip
+2. download asl-help here: https://github.com/just-ero/asl-help/raw/main/lib/asl-help
+3. put asl-help and MinecraftDungeonsII.asl in your LiveSplit\Components folder
+4. open livesplit, right click > Open Layout > From File > MCD2.lsl
+5. right click > Open Splits > From File > MCD2 Any%.lss
+6. if it asks to switch to game time click yes
+7. right click > Save Splits As and Save Layout As, put them somewhere safe. then livesplit loads them by itself next time (Only if you want this!!!)
+
+what it does:
+- timer starts when you load into the world from the menu
+- loading screens pause the game time
+- splits every time you finish a relevant main quest
+- reset and the last split you do yourself
+
+If something breaks please dm "Fylexxy" on discord.
